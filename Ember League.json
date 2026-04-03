@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1774835667,
+	"Version": 1775254832,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -174,20 +174,12 @@
 					"174"
 				],
 				[
-					"183",
-					"184"
-				],
-				[
 					"150",
 					"170"
 				],
 				[
 					"175",
 					"184"
-				],
-				[
-					"171",
-					"172"
 				],
 				[
 					"175",
@@ -211,7 +203,6 @@
 				"173",
 				"174",
 				"175",
-				"183",
 				"264",
 				"189",
 				"161",
@@ -219,12 +210,7 @@
 				"233"
 			],
 			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": [
-				[
-					"210",
-					"160"
-				]
-			]
+			"KillerComboPerkBans": []
 		},
 		{
 			"Name": "A Tiers",
@@ -685,7 +671,9 @@
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedPerks": [
+				"220"
+			],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
@@ -771,7 +759,9 @@
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedPerks": [
+				"220"
+			],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
