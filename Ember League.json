@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1775254832,
+	"Version": 1775260398,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -83,6 +83,7 @@
 				"287",
 				"120",
 				"304",
+				"254",
 				"130"
 			],
 			"KillerIndvPerkBans": [
@@ -203,6 +204,7 @@
 				"173",
 				"174",
 				"175",
+				"183",
 				"264",
 				"189",
 				"161",
@@ -210,7 +212,12 @@
 				"233"
 			],
 			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": []
+			"KillerComboPerkBans": [
+				[
+					"210",
+					"160"
+				]
+			]
 		},
 		{
 			"Name": "A Tiers",
