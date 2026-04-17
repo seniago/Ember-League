@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1776429761,
+	"Version": 1776430186,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -174,10 +174,6 @@
 					"174"
 				],
 				[
-					"183",
-					"184"
-				],
-				[
 					"150",
 					"170"
 				],
@@ -214,12 +210,7 @@
 				"233"
 			],
 			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": [
-				[
-					"210",
-					"220"
-				]
-			]
+			"KillerComboPerkBans": []
 		},
 		{
 			"Name": "A Tiers",
@@ -249,12 +240,7 @@
 				"233"
 			],
 			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": [
-				[
-					"210",
-					"220"
-				]
-			]
+			"KillerComboPerkBans": []
 		},
 		{
 			"Name": "B Tiers",
@@ -293,12 +279,7 @@
 				"264"
 			],
 			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": [
-				[
-					"210",
-					"220"
-				]
-			]
+			"KillerComboPerkBans": []
 		},
 		{
 			"Name": "C Tiers",
