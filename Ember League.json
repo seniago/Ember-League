@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1776546030,
+	"Version": 1776719228,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1595,7 +1595,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				30
+				30,
+				1
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1882,7 +1883,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				30
+				30,
+				1
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2110,7 +2112,8 @@
 			"ItemWhitelist": [
 				0,
 				7,
-				30
+				30,
+				1
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2813,7 +2816,8 @@
 			"ItemWhitelist": [
 				0,
 				30,
-				7
+				7,
+				1
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
