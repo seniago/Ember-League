@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1777164469,
+	"Version": 1777308839,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -83,6 +83,7 @@
 				"287",
 				"120",
 				"304",
+				"254",
 				"130"
 			],
 			"KillerIndvPerkBans": [
@@ -155,10 +156,6 @@
 				[
 					"128",
 					"69"
-				],
-				[
-					"254",
-					"80"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -1420,11 +1417,12 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"170",
-				"220"
+				"170"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"58"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3287,9 +3285,7 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"142"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"34"
