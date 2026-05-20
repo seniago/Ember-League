@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1779284128,
+	"Version": 1779284620,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -469,7 +469,6 @@
 				"6",
 				"52",
 				"7",
-				"8",
 				"258",
 				"104",
 				"11",
@@ -586,7 +585,8 @@
 			],
 			"ItemWhitelist": [
 				30,
-				1
+				1,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3008,9 +3008,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"261"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
