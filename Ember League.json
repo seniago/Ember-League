@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1779284620,
+	"Version": 1779285241,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -762,7 +762,8 @@
 				10,
 				15,
 				30,
-				1
+				1,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -972,7 +973,8 @@
 			],
 			"ItemWhitelist": [
 				1,
-				30
+				30,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1116,7 +1118,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				30
+				30,
+				1
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1438,7 +1441,8 @@
 				10,
 				15,
 				30,
-				1
+				1,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2027,7 +2031,8 @@
 				30,
 				10,
 				1,
-				15
+				15,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2188,7 +2193,9 @@
 				458
 			],
 			"ItemWhitelist": [
-				0
+				0,
+				1,
+				30
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2312,7 +2319,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				30
+				30,
+				1
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2459,7 +2467,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				30
+				30,
+				1
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2512,7 +2521,7 @@
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				5
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
@@ -2537,7 +2546,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				30
+				30,
+				1
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
