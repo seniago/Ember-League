@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1788819335,
+	"Version": 1788998541,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -404,7 +404,12 @@
 				"233"
 			],
 			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": []
+			"KillerComboPerkBans": [
+				[
+					"210",
+					"220"
+				]
+			]
 		},
 		{
 			"Name": "S",
@@ -427,7 +432,12 @@
 				"233"
 			],
 			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": []
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210"
+				]
+			]
 		}
 	],
 	"KillerOverride": [
