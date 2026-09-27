@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1790523997,
+	"Version": 1790542567,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1818,8 +1818,7 @@
 			],
 			"BalanceTiers": [
 				0,
-				2,
-				6
+				2
 			],
 			"SurvivorBalanceTiers": [
 				0,
