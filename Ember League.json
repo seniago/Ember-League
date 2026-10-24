@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1792763508,
+	"Version": 1792866356,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -189,6 +189,10 @@
 				[
 					"220",
 					"150"
+				],
+				[
+					"317",
+					"157"
 				]
 			]
 		},
