@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1792866356,
+	"Version": 1793295231,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2209,6 +2209,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"163",
 				"172",
 				"189"
 			],
@@ -3169,8 +3170,7 @@
 			],
 			"BalanceTiers": [
 				0,
-				2,
-				5
+				2
 			],
 			"SurvivorBalanceTiers": [
 				0,
