@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1795713459,
+	"Version": 1795812683,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1598,18 +1598,17 @@
 		{
 			"Name": "The Legion",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"9",
-				"32"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
-				5
+				2
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				5
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1621,11 +1620,16 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				273,
+				271,
+				268,
+				278
+			],
 			"ItemWhitelist": [
+				30,
 				0,
-				1,
-				30
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
